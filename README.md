@@ -1,4 +1,4 @@
-# Analisis_de_membresias_usuarios_para_churn_gym
+# Analisis_de_membresias_usuarios_para_Model_Fitness_gym
 
 Proyecto: Análisis de Pérdida de Clientes y Retención en Model Fitness
 
